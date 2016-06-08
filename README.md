@@ -13,3 +13,6 @@ A plugin for the burpsuite (https://portswigger.net/burp/) which enables you to
 
 
 Pre built jar files can be gathered from http://coding.f-block.org/
+
+## SAML ReQuest
+A Burpsuite extension to test SAML authentication requests. It supports decoding and modification of SAML authentication requests. It is also integrated with Proxy, Repeater and Intruder, to make the maximum use of Burpsuite tools in testing SAML authentication requests.
