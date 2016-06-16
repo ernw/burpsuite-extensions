@@ -16,3 +16,6 @@ In this case, SAMLRequest parameter in the intruder tab decoded, so the user can
 
 Note: When a request is sent to intruder, it is configured to send the request over HTTPS. So in case the system under test uses HTTP and not HTTPS, keep in mind to change the port and protocol in Intruder-Target tab.
 
+No special steps to build the extension on any IDE. Just create a project, add the four .java files to burp package, in addition to the Burp API files.
+
+
